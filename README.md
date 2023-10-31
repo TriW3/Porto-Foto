@@ -41,9 +41,24 @@ sebelum Oemah Kriya dibentuk dalam bisnis penyedia jasa fotografi Oemah Kriya me
 
 
 ## OemahKriya Foto
+<p align="center">
+  <img src="https://github.com/TriW3/Porto-Foto/assets/100888453/ac52a151-e693-42bb-aa1e-c07480f1611a" width="250" height="250">
+</p><br> 
 
+### Struktur Organisasi
+* founder :<br> 
 
+====================== M. Amir Ma'ruf, S.Kom. || Adi Chandra, S.Ds. || Tri Wicaksono, S.Kom. =========================<br>
+![IMG_6645](https://github.com/TriW3/Porto-Foto/assets/100888453/f9bd9e98-0eed-4c1b-bb65-647cbb97a363)<br> 
 
+* Tugas dan Tanggung Jawab :<br>
+  a. Adi Chandra, S.Ds.<br>
+  b. M. Amir Ma'ruf, S.Kom.<br>
+  c. Tri Wicaksono, S.Kom.<br>
+  d. Wahyu Hendriawan, S.Pd.<br>
+  e. Agus Setiadi<br>
+  f. Bayu Dian Nurcahyo<br>
+  g. Lisa Romadhon<br>
 
 untuk lebih lengkapnya tentang produk dan layanan kami,silahkan klik link berikut ini untuk melihat katalog dari Oemah Kriya : <br>
 https://wa.me/c/6285157161169
