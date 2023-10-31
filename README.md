@@ -52,13 +52,44 @@ sebelum Oemah Kriya dibentuk dalam bisnis penyedia jasa fotografi Oemah Kriya me
 ![IMG_6645](https://github.com/TriW3/Porto-Foto/assets/100888453/f9bd9e98-0eed-4c1b-bb65-647cbb97a363)<br> 
 
 * Tugas dan Tanggung Jawab :<br>
-  a. Adi Chandra, S.Ds.<br>
-  b. M. Amir Ma'ruf, S.Kom.<br>
-  c. Tri Wicaksono, S.Kom.<br>
-  d. Wahyu Hendriawan, S.Pd.<br>
-  e. Agus Setiadi<br>
-  f. Bayu Dian Nurcahyo<br>
-  g. Lisa Romadhon<br>
+  1. Adi Chandra, S.Ds.<br>
+      a. melakukan pelatihan dan memastikan hasil foto berkualitas.<br>
+      b. mengatasi pesanan atau booking khusus.<br>
+      c. pemeliharaan kamera secara fisik.<br>
+  
+  2. M. Amir Ma'ruf, S.Kom.<br>
+      a. mengelola sosial media Oemah Kriya seperti instagram dan facebook.<br>
+      b. melakukan upload foto pada isntagram Oemah Kriya secara rutin.<br>
+      c. mengelola e-comerce penjualan seperti shoope dan tokopedia untuk produk Oemah Kriya.<br>
+      d. membuat aplikasi pengelolaan produk Oemah Kriya Homemade.<br>
+       
+  3. Tri Wicaksono, S.Kom.<br>
+      a. menerima pesanan dari pelanggan.<br>
+      b. melakukan pertemuan dan negosiasi harga booking foto wisata, prewedding, wedding, maupun bisnis.<br>
+      c. memutuskan jadwal kerja anggota lapangan.<br>
+      d. menerima komplain dan pertanyaan dari pelanggan.<br>
+      e. mengelola aliran keuangan Oemah Kriya termasuk gajian anggota dan tabungan.<br>
+      
+  4. Wahyu Hendriawan, S.Pd.<br>
+      a. memimpin rapat rutin setiap 1 bulan sekali.<br>
+      b. melakukan pencatatan dan mengambil keputusan dari kesimpulan rapat.<br>
+      c. berinovasi untuk proses kerja yang baru danmendatangkan keuntungan atau efisiensi proses kerja.<br>
+      d. mengawasi kinerja anggota.<br>
+     
+  5. Agus Setiadi<br>
+      a. melakukan marketing lapangan.<br>
+      b. penyediaan barang properti seperti kacamata dan kursi lipat.<br>
+  
+  6. Bayu Dian Nurcahyo<br>
+      a. mengambil foto lapangan atau tempat wisata.<br>
+      b. melakukan marketing lapangan.<br>
+      c. content creator Oemah Kriya<br>
+  
+  7. Lisa Romadhon<br>
+      a. melayani pelanggan dilapangan.<br>
+      b. memindah foto untuk di pilih oleh pelanggan.<br>
+      c. pengelolaan kasir.<br>
+      d. content creator Oemah Kriya<br>
 
 untuk lebih lengkapnya tentang produk dan layanan kami,silahkan klik link berikut ini untuk melihat katalog dari Oemah Kriya : <br>
 https://wa.me/c/6285157161169
